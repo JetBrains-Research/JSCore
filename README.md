@@ -26,7 +26,7 @@ If you wish to execute the pipeline on your own set of repositories or modify th
 5. **Filtering:** Use `evaluation_pipeline/analyse_and_filter.py` to apply filtering criteria. The final project list with analysis metrics is stored in `filtered_projects_with_analysis_result.csv`.
 
 #### 3. Explorer
-The project includes a web-based explorer to visualize the dataset features. You can access it via `index.html` or the [GitHub Pages](https://sagarut.github.io/dataset-evaluation/) deployment.
+The project includes a web-based explorer to visualize the dataset features. You can access it via `index.html` or the [GitHub Pages](https://jetbrains-research.github.io/JSCore/) deployment.
 
 ### Benchmark Projects
 The following projects constitute the core benchmark dataset:
