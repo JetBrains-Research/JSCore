@@ -1,4 +1,5 @@
 [![JetBrains Research](https://jb.gg/badges/research.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+[![DOI](https://zenodo.org/badge/1179867077.svg)](https://doi.org/10.5281/zenodo.18983825)
 # JSCore: A Comprehensive Feature-based Benchmark for JavaScript Unit Test Generation
 
 ### Introduction
